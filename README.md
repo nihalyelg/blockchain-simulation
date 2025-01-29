@@ -31,7 +31,7 @@ First, clone the repository to your local machine:
 git clone https://github.com/nihalyelg/blockchain-simulation.git
 cd blockchain-simulation
 
-## 2. Run the Blockchain Simulation with Docker
+### 2. Run the Blockchain Simulation with Docker
 
 You can run the blockchain simulation inside a Docker container by following these steps.
 
