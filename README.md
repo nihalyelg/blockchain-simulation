@@ -19,3 +19,14 @@ This project is a simple blockchain simulation built with Python. It demonstrate
 - Python 3.7 or higher
 - No external libraries required (uses Python's standard library)
 - Docker is required to containerize the application for consistent execution across different systems.
+
+
+## Setup & Run Instructions
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/nihalyelg/blockchain-simulation.git
+cd blockchain-simulation
